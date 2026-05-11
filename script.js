@@ -9,11 +9,11 @@ name: “.ᐟ”,
 // Bio (có thể thêm nhiều dòng, tự động xoay vòng)
 bioMessages: [
 “manhiuowi”,
-“"Hello, World!"”
+“"lov minh anh"”
 ],
 
 // Text màn hình chào
-startMessage: “Click here to see the motion baby”,
+startMessage: “măn”,
 
 // Visitor count mặc định (nếu chưa có trong localStorage)
 defaultVisitorCount: 1000,
