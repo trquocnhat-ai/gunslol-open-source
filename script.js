@@ -90,7 +90,7 @@ document.addEventListener('mouseup', () => {
 
 
 }
-const startMessage = “Click here to see the motion baby”;
+const startMessage = “măn”;
 let startTextContent = ‘’;
 let startIndex = 0;
 let startCursorVisible = true;
@@ -186,7 +186,7 @@ console.error(“Failed to initialize cursor trail effect:”, err);
 typeWriterName();
 typeWriterBio();
 });
-const name = “JAQLIV”;
+const name = “𓂃 ོ☼𓂃”;
 let nameText = ‘’;
 let nameIndex = 0;
 let isNameDeleting = false;
@@ -217,8 +217,8 @@ nameCursorVisible = !nameCursorVisible;
 profileName.textContent = nameText + (nameCursorVisible ? ‘|’ : ’ ’);
 }, 500);
 const bioMessages = [
-“Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.”,
-“"Hello, World!"”
+“manhiuowi”,
+“"lov minh anh"”
 ];
 let bioText = ‘’;
 let bioIndex = 0;
