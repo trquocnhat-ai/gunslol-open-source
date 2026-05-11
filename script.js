@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
     "manhiuowi",
-    "\"lov minh anh\""
+    "lov minh anh"
   ];
   let bioText = '';
   let bioIndex = 0;
